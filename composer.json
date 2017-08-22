@@ -1,0 +1,18 @@
+{
+    "name": "devj/UniDataBuffer",
+    "description": "Helper to Work with stream data in C style",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "Joe Soprano",
+            "email": "joe@soprano.com"
+        }
+    ],
+    "minimum-stability": "dev",	
+    "require": {
+		"php": ">=5.3.0"
+    },
+	    "autoload": {
+        "classmap": ["UniDataBuffer.php"]
+    }
+}
